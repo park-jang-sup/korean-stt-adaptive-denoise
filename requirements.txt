@@ -1,0 +1,16 @@
+# 실험 환경: Kaggle (Tesla T4 x2, CUDA 12.4, PyTorch 2.6)
+# torch는 CUDA 버전에 맞춰 별도 설치를 권장합니다. (https://pytorch.org)
+torch
+faster-whisper==1.0.3
+noisereduce==3.0.2
+jiwer==3.0.4
+librosa
+soundfile
+numpy
+pandas
+scipy
+matplotlib
+tqdm
+
+# V1(Sepformer) 비교 실험을 재현할 때만 필요
+# speechbrain==1.0.1

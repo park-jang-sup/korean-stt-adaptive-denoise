@@ -1,0 +1,41 @@
+{
+  "version": "V6 - 초보수적 SNR 기반 스킵",
+  "snr_skip_threshold": 6.0,
+  "generated_at": "2025-12-22T06:34:15.652801",
+  "file_level": {
+    "n_files": 6,
+    "baseline_wer_mean": 20.73116206979324,
+    "baseline_wer_std": 12.104282089536566,
+    "denoised_wer_mean": 19.662147926870922,
+    "denoised_wer_std": 12.163055562684917,
+    "mean_improvement": 1.0690141429223174,
+    "improved_files": 2
+  },
+  "chunk_level": {
+    "n_chunks": 67,
+    "baseline_wer_mean": 45.39839285764484,
+    "denoised_wer_mean": 45.0951339189776,
+    "mean_improvement": 0.30325893866723813,
+    "improved_chunks": 6
+  },
+  "skip_statistics": {
+    "total_chunks": 68,
+    "skipped_chunks": 54,
+    "processed_chunks": 14,
+    "skip_rate": 79.41176470588235,
+    "skipped_avg_snr": 14.2050063538585,
+    "processed_avg_snr": 4.707016789985659
+  },
+  "skip_vs_process_comparison": {
+    "skipped_baseline_wer": 43.7712477273521,
+    "skipped_denoised_wer": 43.7712477273521,
+    "processed_baseline_wer": 52.157303398860876,
+    "processed_denoised_wer": 50.59435348419126,
+    "processed_improvement": 1.5629499146696118
+  },
+  "statistical_tests": {
+    "paired_t_statistic": 1.5442865774017702,
+    "paired_t_p_value": 0.1831735338742863,
+    "significant_at_0.05": false
+  }
+}

@@ -1,0 +1,12 @@
+[INFO] 처리 시작: 05_03_103203_220803_0002_NV.wav
+[INFO] 결과 - Baseline WER: 14.18%, Denoised WER: 14.18%, 개선: +0.00%p, 스킵: 9/9
+[INFO] 처리 시작: 01_08_724723_220730_0002_NV.wav
+[INFO] 결과 - Baseline WER: 21.28%, Denoised WER: 17.49%, 개선: +3.78%p, 스킵: 2/12
+[INFO] 처리 시작: 06_08_129429_220803_0015_NV.wav
+[INFO] 결과 - Baseline WER: 21.05%, Denoised WER: 18.42%, 개선: +2.63%p, 스킵: 8/12
+[INFO] 처리 시작: 02_04_134234_220803_0156_VN.wav
+[INFO] 결과 - Baseline WER: 8.44%, Denoised WER: 8.44%, 개선: +0.00%p, 스킵: 11/11
+[INFO] 처리 시작: 04_06_745746_220806_0002_VN.wav
+[INFO] 결과 - Baseline WER: 45.89%, Denoised WER: 45.89%, 개선: +0.00%p, 스킵: 12/12
+[INFO] 처리 시작: 03_02_990991_221108_0002_VN.wav
+[INFO] 결과 - Baseline WER: 13.54%, Denoised WER: 13.54%, 개선: +0.00%p, 스킵: 12/12
